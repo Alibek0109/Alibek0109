@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alibek, I’m from Uzbekistan
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning php, Laravel
 
 
 - 📫 How to reach me: 
@@ -9,10 +9,5 @@
 -   Phone - + 998 (97) 705 95 76
 
 
-- 🔥 My life principe:
-```python
-while Alive:
-    print('Code, Eat, Sleep, Repeat')
-```
 
 
